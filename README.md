@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Mishra</h1>
 <h3 align="center">With a passion to work as a full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh232&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh232" /> </p>
+
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=nitesh232" alt="nitesh232" /></p>
 
